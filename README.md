@@ -1,7 +1,7 @@
 # things
 Useful files and other things
 ## PCI DSS
-* Thirty two practice questions for peolple taking QSA, ISA or PCIP exams. The file is password protected, the passowrd is *encrypted*.
+* Thirty two practice questions for peolple taking QSA, ISA or PCIP exams. The file is password protected, the password is *encrypted*.
 ## GDPR & PCI DSS
 * An analysis of the intersection between PCI DSS and GDPR.
 ## GDPR
